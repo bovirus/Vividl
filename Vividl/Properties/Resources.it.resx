@@ -519,8 +519,8 @@ Per permettere i duplicati, vai in Opzioni &gt; Impostazioni.</value>
   </data>
   <data name="YtdlUpdateService_NewUpdateMessage" xml:space="preserve">
     <value>È disponibile una nuova versione di {2}!
-La versione aggiornata è la versione {0}.
-Quella installata è la versione {1}.</value>
+Versione disponibile: {0} - Versione installata: {1}.
+Vuoi installare la nuova versione?</value>
   </data>
   <data name="DownloadOption_Exception_NoFormat" xml:space="preserve">
     <value>È necessario specificare il formato video o audio.</value>
